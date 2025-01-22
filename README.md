@@ -103,10 +103,10 @@ java br.com.fecaf.App
 ## 4. Menu de Operações
 
 Quando o sistema for iniciado, o menu será exibido com as seguintes opções:
-1 - Listar funcionários
-2 - Deletar funcionário
-3 - Cadastrar funcionário 
-4 - Sair
+- `1 - Listar funcionários`
+- `2 - Deletar funcionário`
+- `3 - Cadastrar funcionário`
+- `4 - Sair`
 
 
 Escolha a opção desejada digitando o número correspondente.
